@@ -1,3 +1,4 @@
-salt==2016.11.5
+salt==3006.12
 cymon
 netaddr
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
