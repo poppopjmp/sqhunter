@@ -1,3 +1,3 @@
-salt==2016.11.5
+salt==3006.17
 cymon
 netaddr
